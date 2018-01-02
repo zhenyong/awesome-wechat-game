@@ -3,6 +3,7 @@
 ## 目录
 
 - [官方文档](#官方文档)
+- [引擎](#引擎)
 - [工具](#工具)
 - [新闻报道](#新闻报道)
 
@@ -12,13 +13,17 @@
 - [微信小游戏开发工具](https://mp.weixin.qq.com/debug/wxagame/dev/devtools/download.html)
 
 
-## 工具
+## 引擎
 
 - [使用白鹭引擎发布微信小游戏](http://developer.egret.com/cn/github/egret-docs/Engine2D/projectConfig/miniGame/index.html)
 
 - [LAYA 游戏引擎](https://www.layabox.com/)
 
 - [Cocos Creator 支持小游戏](http://www.cocos.com/creator)
+
+## 工具
+
+[wangshub/wechat_jump_game 微信《跳一跳》辅助](https://github.com/wangshub/wechat_jump_game)
 
 ## 新闻报道
 
